@@ -64,7 +64,12 @@
 }
 
 a {
-  color: #1772d0;
+  color: #0883B1;
+/*  #173361;*/
+/*  #164086;*/
+/*  #4388FA;*/
+/*  #3E5771;*/
+/*  #1772d0;*/
   text-decoration: none;
 }
 
@@ -81,12 +86,12 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 17px
+  font-size: 18px
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 17px;
+  font-size: 19px;
 }
 
 heading {
@@ -96,7 +101,7 @@ heading {
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 700
 }
 
