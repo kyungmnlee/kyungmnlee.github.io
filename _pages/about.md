@@ -33,7 +33,7 @@ Email: *kyungmnlee (at) kaist (dot) ac (dot) kr* \| [Curriculum Vitae](https://d
 [![](https://img.shields.io/github/stars/choi403/DiffusionGuard?style=social&label=Stars)](https://github.com/choi403/DiffusionGuard)
 <div style="margin-top: 10px;"></div>
 
-- `NeurIPS 2024` [Direct Consistency Optimization for Robust Text-to-Image Personalization](https://arxiv.org/abs/2402.12004), **Kyungmin Lee**, Sangkyung Kwak, Kihyuk Sohn and Jinwoo Shin. 
+- `NeurIPS 2024` [Direct Consistency Optimization for Robust Customization of Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12004), **Kyungmin Lee**, Sangkyung Kwak, Kihyuk Sohn and Jinwoo Shin. 
 [Project page](https://kyungmnlee.github.io/dco/) 
 | [![](https://img.shields.io/github/stars/kyungmnlee/dco?style=social&label=Stars)](https://github.com/kyungmnlee/dco)
 <div style="margin-top: 10px;"></div>

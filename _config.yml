@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kyungmin Lee"
-  avatar           : "images/personal.png"
+  avatar           : "images/personal.PNG"
   bio              : "PhD student @KAIST"
   location         :
   employer         :
@@ -53,7 +53,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/kyungmnlee"
+  twitter          : "kyungmnlee"
   vine             :
   weibo            :
   xing             :
