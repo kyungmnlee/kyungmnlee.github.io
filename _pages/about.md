@@ -26,7 +26,8 @@ Email: *kyungmnlee (at) kaist (dot) ac (dot) kr* \| [Curriculum Vitae](https://d
 # 📝 Publications 
 
 - `CVPR 2025` [Calibrated Multi-Preference Optimization for Aligning Diffusion Models](https://arxiv.org/abs/2502.02588), 
-**Kyungmin Lee**, Xiaohang Li, Qifei Wang, Junfeng He, Ming-Hsuan Yang, Irfan Essa, Jinwoo Shin, Feng Yang and Yinxiao Li.
+**Kyungmin Lee**, Xiaohang Li, Qifei Wang, Junfeng He, Junjie Ke, Ming-Hsuan Yang, Irfan Essa, Jinwoo Shin, Feng Yang and Yinxiao Li.
+[Project page](https://kyungmnlee.github.io/capo.github.io/)
 <div style="margin-top: 10px;"></div>
 
 - `ICLR 2025` [DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing](https://arxiv.org/abs/2410.05694), Junesuk Choi, **Kyungmin Lee**, Jongheon Jeong, Saining Xie, Jinwoo Shin and Kimin Lee. 
