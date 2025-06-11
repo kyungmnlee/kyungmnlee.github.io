@@ -21,7 +21,7 @@ Previously, I interned at Google DeepMind working with <a href="https://research
 
 My research interests span probabilistic machine learning, generative modeling, representation learning and their applications. Recently, I am interested in visual generative models and their adaptations such as 3D generative modeling, personalization, and preference learning.
 
-Email: *kyungmnlee (at) kaist (dot) ac (dot) kr* \| [Curriculum Vitae](https://drive.google.com/file/d/1XxunqZrXfL9gef-KC_s9N4QRfZP-tFI0/view?usp=sharing)
+Email: *kyungmnlee (at) kaist (dot) ac (dot) kr* \| [Curriculum Vitae](https://drive.google.com/file/d/1s67rVIEA8BhnbvvUerTGGH-wLqbIqQkd/view?usp=sharing)
 
 # 📝 Publications 
 
