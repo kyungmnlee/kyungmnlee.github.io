@@ -19,11 +19,29 @@ redirect_from:
 I am PhD student at KAIST AI working with professor <a href="https://alinlab.kaist.ac.kr/shin.html">Jinwoo Shin</a>.
 Previously, I interned at Google DeepMind working with <a href="https://research.google/people/yinxiaoli/?&type=google">Yinxiao Li</a> and <a href="https://sites.google.com/view/feng-yang">Feng Yang</a>. I also closely worked with <a href="https://sites.google.com/site/kihyuksml/">Kihyuk Sohn</a> via Google University Relation program.
 
-My research interests span probabilistic machine learning, generative modeling, representation learning and their applications. Recently, I am interested in visual generative models and their adaptations such as 3D generative modeling, personalization, and preference learning.
+My research interests lie in probabilistic machine learning, generative modeling, and representation learning, with a focus on their applications to visual understanding and generation. Recently, I have been particularly interested in generative modeling for visual synthesis — including image, video, and 3D generation — as a step toward world modeling. I am also exploring applications in robotics, such as vision-language-action models. My previous works have focused on the fundamentals of training diffusion and flow models, as well as their adaptations to tasks such as 3D generation, personalization, and preference-based fine-tuning.
 
-Email: *kyungmnlee (at) kaist (dot) ac (dot) kr* \| [Curriculum Vitae](https://drive.google.com/file/d/1s67rVIEA8BhnbvvUerTGGH-wLqbIqQkd/view?usp=sharing)
+I plan to graduate in 2026 and am seeking industry research positions. Please feel free to reach out if you’re interested in potential collaborations or opportunities to work together.
+
+Email: *kyungmnlee (at) kaist (dot) ac (dot) kr* \| <a href="images/Curriculum_Vitae__Oct_2025_.pdf">Curriculum Vitae</a>
 
 # 📝 Publications 
+
+- `Preprint` [Decoupled MeanFlow: Turning Flow Models into Flow Maps for Accelerated Sampling](https://arxiv.org/abs/2510.24474),
+**Kyungmin Lee**, Sihyun Yu, Jinwoo Shin. [![](https://img.shields.io/github/stars/kyungmnlee/dmf?style=social&label=Stars)](https://github.com/kyungmnlee/dmf)
+<div style="margin-top: 15px;"></div>
+
+- `Preprint` [Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](),
+John Won, **Kyungmin Lee**, Huiwon Jang, Dongyoung Kim, Jinwoo Shin.
+<div style="margin-top: 15px;"></div>
+
+- `Preprint` [Contrastive Representation Regularization for Vision-Language-Action Models](https://arxiv.org/abs/2510.01711),
+Taeyoung Kim, Jimin Lee, Myungkoo Koo, Dongyoung Kim, **Kyungmin Lee**, Changyeon Kim, Younggyo Seo, Jinwoo Shin.
+<div style="margin-top: 15px;"></div>
+
+- `Preprint` [HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy](https://arxiv.org/abs/2510.00695),
+Myungkoo Koo, Daewon Choi, Taeyoung Kim, **Kyungmin Lee**, Changyeon Kim, Younggyo Seo, Jinwoo Shin. [Project page](https://myungkyukoo.github.io/hamlet/)
+<div style="margin-top: 15px;"></div>
 
 - `Preprint` [Enhancing Motion Dynamics of Image-to-Video Models via Adaptive Low-Pass Guidance](https://arxiv.org/abs/2506.08456),
 Junesuk Choi, **Kyungmin Lee**, Sihyun Yu, Yisol Choi, Jinwoo Shin and Kimin Lee. [Project page](https://choi403.github.io/ALG/)
@@ -118,7 +136,7 @@ Gilhyun Nam, Gyeongjae Choi and **Kyungmin Lee**.
 
 # 🤝 Academic Services
 - Conference reviewer: `NeurIPS`, `ICML`, `ICLR`, `CVPR`, `ICCV`, `ECCV`, `WACV`, `AISTATS`
-- Journal reviewer: `TMLR`
+- Journal reviewer: `TMLR`, `TPAMI`
 
 # 📖 Educations
 - *2022.09 - 2026.08*, KAIST, Ph.D. in Artificial Intelligence (expected).
